@@ -9,7 +9,7 @@
   "dependencies": {
     "resize-logic": "0.0.0",
     "through2": "~0.4.0",
-    "canvas": "~2.4.1",
+    "canvas": "~2.5.0",
     "bl": "~0.7.0"
   },
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
